@@ -1,0 +1,6 @@
+NIK|NAMA LENGKAP
+
+123|Bayu
+123456|jamet
+12345678|ammar
+1111|agilbabi
